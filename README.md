@@ -1,4 +1,4 @@
-Welcome to the ToDo App repository! This simple web application allows you to manage your tasks by adding, updating, and deleting them. Keep track of your to-do list and stay organized effortlessly.
+Welcome to the ToDo App repository! This simple web application allows you to manage your tasks by adding and deleting them. Keep track of your to-do list and stay organized effortlessly.
 
 Features:
 
